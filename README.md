@@ -1,1 +1,2 @@
 # Hello-world
+After graduating from mechanical engineering I got a glimpse of programming which led me to explore it more. This interest led me to UI/UX design and i ended up working as a ux design intern for one year. Along with that i was taking online courses in design theory and Human computer interaction. After which I decided to master the programming side of the field. That is the reason why i Took up the course so that I am able to have the knowledge to  develop a fully fledged website by the time I finish the course.
